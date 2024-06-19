@@ -57,7 +57,7 @@ public class ConsoleDAOVm {
                     Integer idComputador = (Integer) rsUsuario.getObject("idComputador");
 
                     console.setNome(nomeUsuario);
-                    console.setIdUser(idUsuario);
+                    console.setIdUsuarioVm(idUsuario);
                     console.setIdEmpresa(idEmpresa);
                     console.setIdComputadorVm(idComputador);
                     console.setEntrou(true);

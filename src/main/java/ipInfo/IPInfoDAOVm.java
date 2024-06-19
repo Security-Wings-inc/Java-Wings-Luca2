@@ -19,7 +19,7 @@ public class IPInfoDAOVm {
 
             ps.setString(3, ipInfo.getCity());
             ps.setString(4, ipInfo.getIpQuery());
-            ps.setInt(5, console.getIdUser());
+            ps.setInt(5, console.getIdUsuarioVm());
             ps.execute();
 //            ps.close();
 

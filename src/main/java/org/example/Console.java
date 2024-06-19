@@ -8,6 +8,20 @@ import java.util.Scanner;
 
 public class Console {
 
+    //Endereço
+    private Integer idUsuarioVm;
+
+    public Integer getIdUsuarioVm() {
+        return idUsuarioVm;
+    }
+
+    public void setIdUsuarioVm(Integer idUsuarioVm) {
+        this.idUsuarioVm = idUsuarioVm;
+    }
+
+
+
+
 // LOGIN
     private String user;
     private String password;
