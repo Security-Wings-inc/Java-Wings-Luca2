@@ -63,6 +63,7 @@ public class ConsoleDAOVm {
                     console.setEntrou(true);
                     LogMonitoramento.Logs(console);
 
+                    System.out.println("DAO VM usuario:" + idUsuario);
 
                 } else {
                     console.setEntrou(false);

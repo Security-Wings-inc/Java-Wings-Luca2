@@ -11,9 +11,14 @@
   <component name="ChangeListManager">
     <list default="true" id="86852e13-1795-425f-8e86-222783c9e3ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ipInfo/IPInfoDAOVm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ipInfo/IPInfoDAOVm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConsoleDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConsoleDAOVm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleDAOVm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Security-Wings-Looca-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Security-Wings-Looca-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Security-Wings-Looca-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Security-Wings-Looca-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BancoDeDados/BancoLooca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BancoDeDados/BancoLooca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ConsoleDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/ConsoleDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ConsoleDAOVm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/ConsoleDAOVm.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

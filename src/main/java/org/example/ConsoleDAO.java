@@ -65,6 +65,7 @@ public class ConsoleDAO {
                     console.setEntrou(true);
                     LogMonitoramento.Logs(console);
 
+                    System.out.println("DAO Local usuario:" + idUsuario);
 
                 } else {
                     console.setEntrou(false);

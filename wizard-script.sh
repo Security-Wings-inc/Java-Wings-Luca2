@@ -242,6 +242,9 @@ create table logEndereco (
 	fkUsuarioLog int,
 	foreign key (fkUsuarioLog) references usuario(idUsuario)
 );
+
+
+ALTER TABLE logEndereco DROP FOREIGN KEY logEndereco_ibfk_1;
 EOF
 
 
